@@ -25,4 +25,4 @@ deploy:
   space: pradeep.krishnanath
   on:
     repo: ykhadilkar-rei/user-guide
-    branch: gh-pages
+    branch: 18f-pages
