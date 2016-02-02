@@ -6,7 +6,7 @@ before_script:
 script: "./script/cibuild"
 branches:
   only:
-  - gh-pages
+  - 18f-pages
   - "/pages-(.*)/"
 env:
   global:
