@@ -1,4 +1,5 @@
-## 18F Guides Template
+## User Guides Template
+[![Build Status](https://travis-ci.org/ykhadilkar-rei/user-guide.svg?branch=18f-pages)](https://travis-ci.org/ykhadilkar-rei/user-guide)
 
 This is a skeleton repo containing the
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based
