@@ -50,10 +50,8 @@ repos:
   url: https://github.com/18F/guides-template
 
 back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
-
-google_analytics_ua: UA-48605964-19
+  url: "https://www.cfda.gov/"
+  text: Read more about CFDA
 
 collections:
   pages:
