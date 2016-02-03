@@ -43,22 +43,6 @@ navigation:
 - text: Add images
   url: add-images/
   internal: true
-- text: Update the config file
-  url: update-the-config-file/
-  internal: true
-  children:
-  - text: Understanding the `baseurl:` property
-    url: understanding-baseurl/
-    internal: true
-- text: GitHub setup
-  url: github-setup/
-  internal: true
-- text: Post your guide
-  url: post-your-guide/
-  internal: true
-- text: Advanced features
-  url: advanced-features/
-  internal: true
 
 repos:
 - name: Guides Template
